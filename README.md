@@ -12,7 +12,7 @@ Angular is a complete front end framework with a wide range of features
 
 Spring Boot is an awesome framework to build RESTful API and Microservices.
 
-In this course, lets combine these awesome frameworks to create your first full stack web application.
+ lets combine these awesome frameworks to create your first full stack web application.
 
 ## Installation Guides
 
